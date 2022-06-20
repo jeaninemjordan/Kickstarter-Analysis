@@ -34,6 +34,8 @@ The Successful US Kickstarters and Failed US Kickstarters sheets list only data 
 
 The Descriptive Analysis sheet displays the descriptive statistics data for the US Kickstarter campaigns. Here it is observed that the failed US Kickstarter goals outweigh the successful Kickstarter results. The standard deviation is high indicating that the data measured is more spread out numerically and varied more than the results for successful goals. Alternatively, the failed US Kickstarter productions pledged dollar amounts are reported to be much less than the successful US Kickstarter pledged amounts. The standard deviations for both the failed and successful productions are high indicating the wide spread of high and low numbers being measured. 
 
+![](Resources/Descriptive_Analysis_Image.PNG)
+
 The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060.
 
 The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of May to August. Alternatively, we can see that January is the least successful month for theater productions and holds the most cancellations and failed productions. 
