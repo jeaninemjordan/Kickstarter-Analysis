@@ -31,6 +31,7 @@ The Edinburgh Research sheet displays a requested analysis on the following Grea
 Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
 
 The Successful US Kickstarters and Failed US Kickstarters sheets list only data for successful and failed US Kickstarter projects respectively. 
+
 The Descriptive Analysis sheet displays the descriptive statistics data for the US Kickstarter campaigns. Here it is observed that the failed US Kickstarter goals outweigh the successful Kickstarter results. The standard deviation is high indicating that the data measured is more spread out numerically and varied more than the results for successful goals. Alternatively, the failed US Kickstarter productions pledged dollar amounts are reported to be much less than the successful US Kickstarter pledged amounts. The standard deviations for both the failed and successful productions are high indicating the wide spread of high and low numbers being measured. 
 
 The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060.
