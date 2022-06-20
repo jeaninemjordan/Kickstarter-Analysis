@@ -26,6 +26,8 @@ The Kickstarter sheet houses all data that is examined throughout this analysis.
 
 The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. In the line chart, we observe trends over time for the outcomes of US theater productions and see the numbers of productions decrease dramatically after the year 2016. Alternatively, we see a massive peak in theater productions during the year 2013. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of May to August. 
 
+![](Resources/Parent_Category_Outcomes_Image.png)
+
 The Edinburgh Research sheet displays a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. 
 
 Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
