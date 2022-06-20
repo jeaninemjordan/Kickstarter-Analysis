@@ -28,9 +28,9 @@ The Category and subcategory outcome analysis sheet observes the breakdown of th
 
 ![](Resources/Parent_Category_Outcomes_Image.png)
 
-The Edinburgh Research sheet displays a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. 
+The Edinburgh Research sheet displays a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
 
-Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
+![](Resources/Great_Britain_Theater_Analysis.PNG)
 
 The Successful US Kickstarters and Failed US Kickstarters sheets list only data for successful and failed US Kickstarter projects respectively. 
 
@@ -40,7 +40,7 @@ The Descriptive Analysis sheet displays the descriptive statistics data for the 
 
 The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060.
 
-![](Resources/Great_Britain_Theater_Analysis.PNG)
+![](Resources/Pledged_vs_Goal20%GB_Image.PNG)
 
 The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of May to August. Alternatively, we can see that January is the least successful month for theater productions and holds the most cancellations and failed productions. 
 
