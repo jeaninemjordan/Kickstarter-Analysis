@@ -38,18 +38,18 @@ The Descriptive Analysis sheet displays the descriptive statistics data for the 
 
 ![](Resources/Descriptive_Analysis_Image.PNG)
 
-The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060.
+The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 pound mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060 pounds. Outside the bar, we are also able to observe the outlier goal and pledged amounts occuring at 15,000 and 10,092 pounds. 
 
 ![](Resources/Pledged_vs_Goal%20GB_Image.PNG)
 
-The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of May to August. Alternatively, we can see that January is the least successful month for theater productions and holds the most cancellations and failed productions. 
+The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of April to July. Alternatively, we can see that January is the least successful month for theater productions, holding the most cancellations and failed productions. 
 
 ![](Resources/Theater_Outcomes_Based_on_Launch.PNG)
 
-The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals less than 1000. 
+The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
 
 ![](Resources/outcomes_based_on_goals.PNG)
 
 **Conclusion**
 
-Overall, we observe that successful productions generally occurred within the months of May and August and were executed with goals between 4000 and 5000. The outcomes based on goals table encompasses a broad area of data that could be narrowed down by production type or region. While the broad dataset examined provides useful knowledge, it is also limiting. A deeper analysis of data narrowed down by production type and country would likely provide the viewer with more useful data if planning a future project.  Additional graphing and correlating percentage values in the pivots of this workbook would also provide more useful data to the viewer. 
+Overall, we observe that successful productions generally occurred within the months of April and July and were executed with goals over 5000 or less than 1000. The outcomes based on goals table encompasses a broad area of data that could be narrowed down by production type or region. While the broad dataset examined provides useful knowledge, it is also limiting. A deeper analysis of data narrowed down by production type and country would likely provide the viewer with more useful data if planning a future project. Comparing the successes and failures of different productions within subcategories could also provide valuable data to the viewer, as well as additional graphing and correlating percentage values in the pivots of this workbook. The currency columns are difficult to glean information from with complete accuracy while comparing against eachother because of the currency exchange rates.
