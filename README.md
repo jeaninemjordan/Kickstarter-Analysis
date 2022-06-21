@@ -32,13 +32,13 @@ In the line chart, we observe historical trends over time for the outcomes of US
 
 ![](Resources/Theater_outcomes_vs_launch_years.PNG)
 
-The Edinburgh Research sheet displays a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
+The Edinburgh Research sheet uses the =VLOOKUP formuaa to display a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
 
 ![](Resources/Great_Britain_Theater_Analysis.PNG)
 
 The Successful US Kickstarters and Failed US Kickstarters sheets list only data for successful and failed US Kickstarter projects respectively. 
 
-The Descriptive Analysis sheet displays the descriptive statistics data for the US Kickstarter campaigns. Here it is observed that the failed US Kickstarter goals outweigh the successful Kickstarter results. The standard deviation is high indicating that the data measured is more spread out numerically and varied more than the results for successful goals. Alternatively, the failed US Kickstarter productions pledged dollar amounts are reported to be much less than the successful US Kickstarter pledged amounts. The standard deviations for both the failed and successful productions are high indicating the wide spread of high and low numbers being measured. 
+The Descriptive Analysis sheet displays the descriptive statistics data for the US Kickstarter campaigns using the =AVERAGE, =MEDIAN, =STDEV.P, and =QUARTILE.EXC functions. Here it is observed that the failed US Kickstarter goals outweigh the successful Kickstarter results. The standard deviation is high indicating that the data measured is more spread out numerically and varied more than the results for successful goals. Alternatively, the failed US Kickstarter productions pledged dollar amounts are reported to be much less than the successful US Kickstarter pledged amounts. The standard deviations for both the failed and successful productions are high indicating the wide spread of high and low numbers being measured. 
 
 ![](Resources/Descriptive_Analysis_Image.PNG)
 
@@ -50,7 +50,7 @@ The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on
 
 ![](Resources/Theater_Outcomes_Based_on_Launch.PNG)
 
-The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
+The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries using the COUNTIFS function. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
 
 ![](Resources/outcomes_based_on_goals.PNG)
 
