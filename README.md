@@ -24,7 +24,7 @@ This analysis focuses on the subjects below that correlate to sheets present in 
 
 The Kickstarter sheet houses all data that is examined throughout this analysis. Here, all columns and categories of the measured data can be seen. 
 
-The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. We are able to quickly glance at a breadown for all US theater productions and plays in all statuses by using the stacked bar charts below. 
+The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. We are able to quickly glance at a breakdown for all US theater productions and plays in all statuses by using the stacked bar charts below. 
 
 ![](Resources/Parent_Category_Outcomes_Image.png) ![](Resources/Subcategory_Outcomes_Image.PNG) 
 
