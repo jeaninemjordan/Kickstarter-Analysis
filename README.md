@@ -24,7 +24,7 @@ This analysis focuses on the subjects below that correlate to sheets present in 
 
 The Kickstarter sheet houses all data that is examined throughout this analysis. Here, all columns and categories of the measured data can be seen. 
 
-The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. We are able to quickly glance at a breakdown for all US theater productions and plays in all statuses by using the stacked bar charts below. 
+The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the pivot charts below, it is evident that the successful productions far outweigh all other outcomes. We are able to quickly glance at a breakdown for all US theater productions and plays in all statuses by using the stacked bar charts below. 
 
 ![](Resources/Parent_Category_Outcomes_Image.png) ![](Resources/Subcategory_Outcomes_Image.PNG) 
 
@@ -32,7 +32,7 @@ In the line chart, we observe historical trends over time for the outcomes of US
 
 ![](Resources/Theater_outcomes_vs_launch_years.PNG)
 
-The Edinburgh Research sheet uses the =VLOOKUP formuaa to display a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
+The Edinburgh Research sheet uses the =VLOOKUP formula to display a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
 
 ![](Resources/Great_Britain_Theater_Analysis.PNG)
 
@@ -50,7 +50,7 @@ The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on
 
 ![](Resources/Theater_Outcomes_Based_on_Launch.PNG)
 
-The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries using the COUNTIFS function. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
+The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries using the =COUNTIFS function. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
 
 ![](Resources/outcomes_based_on_goals.PNG)
 
