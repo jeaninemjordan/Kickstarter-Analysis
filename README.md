@@ -24,9 +24,13 @@ This analysis focuses on the subjects below that correlate to sheets present in 
 
 The Kickstarter sheet houses all data that is examined throughout this analysis. Here, all columns and categories of the measured data can be seen. 
 
-The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. In the line chart, we observe historical trends over time for the outcomes of US theater productions and see the numbers of productions decrease dramatically after the year 2016. Alternatively, we see a massive peak in theater productions during the year 2013. 
+The Category and subcategory outcome analysis sheet observes the breakdown of the US theater production outcomes, as well as the breakdown of outcomes for the recorded plays within the US theater category. In the charts below, it is evident that the successful productions far outweigh all other outcomes. We are able to quickly glance at a breadown for all US theater productions and plays in all statuses by using the stacked bar charts below. 
 
-![](Resources/Parent_Category_Outcomes_Image.png) ![](Resources/Subcategory_Outcomes_Image.PNG) ![](Resources/Theater_outcomes_vs_launch_years.PNG)
+![](Resources/Parent_Category_Outcomes_Image.png) ![](Resources/Subcategory_Outcomes_Image.PNG) 
+
+In the line chart, we observe historical trends over time for the outcomes of US theater productions and see the numbers of productions decrease dramatically after the year 2016. Alternatively, we see a massive peak in theater productions during the year 2013. Additional research could be conducted using the provided data to investigate the peaks and falls and determine the root cause of these trends. 
+
+![](Resources/Theater_outcomes_vs_launch_years.PNG)
 
 The Edinburgh Research sheet displays a requested analysis on the following Great Britain theater productions: Be Prepared, Checkpoint 22, Cutting Off Kate Bush, Jestia and Raedon, and the Hitchhiker’s Guide to the Family. Alongside the descriptions of these productions, we can view the goals and pledged currency values. Here, we observe the most successful production to be the Hitchhiker’s Guide to the Family. 
 
@@ -38,7 +42,7 @@ The Descriptive Analysis sheet displays the descriptive statistics data for the 
 
 ![](Resources/Descriptive_Analysis_Image.PNG)
 
-The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 pound mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060 pounds. Outside the bar, we are also able to observe the outlier goal and pledged amounts occuring at 15,000 and 10,092 pounds. 
+The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 pound mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060 pounds. Outlier goal and pledged amounts occuring are at 15,000 and 10,092 pounds within this chart and the quartile data is also visible here.  
 
 ![](Resources/Pledged_vs_Goal%20GB_Image.PNG)
 
