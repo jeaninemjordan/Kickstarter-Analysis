@@ -52,7 +52,7 @@ The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on
 
 The Outcomes Based on Goals sheet depicts numeric breakdowns for the successful, failed, and cancelled Kickstarter productions in all countries using the =COUNTIFS function. We observe an overall report of 60% successful projects and 40% failed projects. Here, the breakdown also tallies the numbers of Kickstarter productions in different currency value brackets. The majority of all reported productions had goals over 5000 or less than 1000. 
 
-![](Resources/outcomes_based_on_goals.PNG)
+![](Resources/outcomes_based_on_goals1.PNG)
 
 **Conclusion**
 
