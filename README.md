@@ -44,7 +44,7 @@ The Descriptive Analysis sheet displays the descriptive statistics data for the 
 
 The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuring the pledged versus goal currency amounts for musical productions in Great Britain. We can see the 4060 pound mean goal and observe the outlier data in the chart to determine that the production should have a goal at or under 4060 pounds. Outlier goal and pledged amounts occuring are at 15,000 and 10,092 pounds within this chart and the quartile data is also visible here.  
 
-![](Resources/Pledged_vs_Goal%20GB_Image.PNG)
+![](Resources/Pledged_vs_Goal_GB_Image.PNG)
 
 The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of April to July. Alternatively, we can see that January is the least successful month for theater productions, holding the most cancellations and failed productions. 
 
