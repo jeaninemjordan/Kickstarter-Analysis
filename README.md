@@ -46,7 +46,7 @@ The Great Britain Musical Analysis sheet displays a box-and-whisker plot measuri
 
 ![](Resources/Pledged_vs_Goal_GB_Image.PNG)
 
-The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of April to July. Alternatively, we can see that January is the least successful month for theater productions, holding the most cancellations and failed productions. 
+The Theater Outcomes by Launch Data sheet analyzes the theater outcomes based on launch dates for all countries. The line chart depicting successful outcomes by months indicates it may be most advantageous for productions to occur during the months of April to July. Alternatively, we can see that January is the least successful month for theater productions, holding the most cancellations and failed productions. Here we also see a peak in February. This data could be further examined by graphing which theater productions specifically were most successful during these months. 
 
 ![](Resources/Theater_Outcomes_Based_on_Launch.PNG)
 
